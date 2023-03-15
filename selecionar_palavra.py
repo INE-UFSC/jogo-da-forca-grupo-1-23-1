@@ -46,5 +46,5 @@ def carrega_palavra_secreta():
     palavra_secreta = palavras[numero].upper()
     return palavra_secreta
 
-palavra_secreta = carrega_palavra_secreta()
-print(palavra_secreta)
+#palavra_secreta = carrega_palavra_secreta()
+#print(palavra_secreta)
