@@ -1,11 +1,11 @@
 ABC 
-Atlético-GO 
-Avaí 
-Botafogo-SP 
+Atletico GO 
+Avai 
+Botafogo SP 
 CRB 
-Ceará 
+Ceara 
 Chapecoense 
-Criciúma 
+Criciuma 
 Guarani 
 Ituano 
 Juventude 
@@ -17,4 +17,4 @@ Sampaio Corrêa
 Sport 
 Tombense 
 Vila Nova 
-Vitória 
+Vitoria 

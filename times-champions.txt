@@ -3,7 +3,7 @@ Liverpool
 Napoli 
 Rangers 
 Porto 
-Atlético de Madrid 
+Atletico de Madrid 
 Bayer Leverkusen 
 Brugge 
 Bayern de Munique 
@@ -17,7 +17,7 @@ Olympique de Marselha
 Milan 
 Chelsea 
 RB Salzburg 
-Dínamo Zagreb 
+Dinamo Zagreb 
 Real Madrid 
 RB Leipzig 
 Shakhtar Donetsk 

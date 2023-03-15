@@ -11,4 +11,4 @@ laranja
 morango
 pessego
 pitanga
-cupuaçu
+cupuacu

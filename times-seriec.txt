@@ -1,8 +1,8 @@
 Altos 
 Amazonas 
-América-RN 
+America RN 
 Aparecidense 
-Botafogo-PB 
+Botafogo PB 
 Brusque 
 CSA 
 Confiança 
@@ -10,11 +10,11 @@ Figueirense
 Floresta 
 Manaus 
 Náutico 
-Operário-PR 
+Operário PR 
 Paysandu 
 Pouso Alegre 
 Remo 
 São Bernardo 
-São José-RS 
+São José RS 
 Volta Redonda 
-Ypiranga-RS 
+Ypiranga RS 

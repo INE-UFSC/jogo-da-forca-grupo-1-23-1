@@ -4,7 +4,7 @@ figo
 jaca  
 kiwi 
 lima 
-maça 
+maca 
 pera 
 roma 
 amora 
