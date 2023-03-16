@@ -19,7 +19,7 @@ class JogoDeForca:
         
         if letra not in self.palavra:
             self.chances -= 1
-            print(f"A letra '{letra}' não está na palavra.")
+            print(f"ERROUU! A letra '{letra}' não está na palavra.")
             print(f"Você tem {self.chances} chances restantes.")
             return
         
