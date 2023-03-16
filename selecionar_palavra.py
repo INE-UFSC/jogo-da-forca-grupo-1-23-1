@@ -1,6 +1,4 @@
 import random
-
-
 def carrega_palavra_secreta():
     arquivo = open("tudo.txt", "r")
     palavras = []
@@ -18,11 +16,11 @@ def carrega_palavra_secreta():
 
 def dica(palavra_secreta):
     dica = " "
-    lista = ["frutas-dificil.txt", "frutas-facil.txt", "frutas-medio.txt", "paises-africa.txt", "paises-americas.txt",
-             "paises-europa.txt",
-             "times-champions.txt", "times-seriea.txt", "times-serieb.txt", "times-seriec.txt"]
+    lista = ["frutas-dificil", "frutas-facil", "frutas-medio", "paises-africa", "paises-americas",
+             "paises-europa",
+             "times-champions", "times-seriea", "times-serieb", "times-seriec"]
     for c in lista:
-        arquivo = open(c, "r")
+        arquivo = open(c + ".txt", "r")
         palavras = []
 
         for linha in arquivo:
@@ -34,5 +32,6 @@ def dica(palavra_secreta):
             dica = c
     return dica
 
-# palavra_secreta = carrega_palavra_secreta()
-# dica = dica(palavra_secreta)
+#palavra_secreta = carrega_palavra_secreta()
+#dica = dica(palavra_secreta)
+#print(palavra_secreta,dica)

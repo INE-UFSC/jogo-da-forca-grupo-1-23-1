@@ -4,7 +4,7 @@ from selecionar_palavra import dica
 def comecar_nova_rodada():
     palavra = carrega_palavra_secreta()
 
-    print(palavra)
+    #print(palavra)
 
     erros = 0
 

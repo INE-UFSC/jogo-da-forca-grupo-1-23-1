@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e484bcfa-8eeb-4b7d-ac79-6adecf10b6b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tudo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jogar_uma_rodada.py" beforeDir="false" afterPath="$PROJECT_DIR$/jogar_uma_rodada.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/selecionar_palavra.py" beforeDir="false" afterPath="$PROJECT_DIR$/selecionar_palavra.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,14 +33,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/poo2_jogo_da_forca/jogo-da-forca-grupo-1-23-1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/poo2_jogo_da_forca/jogo-da-forca-grupo-1-23-1&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\poo2_jogo_da_forca\jogo-da-forca-grupo-1-23-1" />
@@ -130,7 +129,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678797218185</updated>
-      <workItem from="1678935918096" duration="1294000" />
+      <workItem from="1678935918096" duration="2553000" />
+      <workItem from="1678975028960" duration="997000" />
     </task>
     <servers />
   </component>
@@ -150,7 +150,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/jogo_da_forca_grupo_1_23_1$jogar_uma_rodada.coverage" NAME="jogar_uma_rodada Coverage Results" MODIFIED="1678937000734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/jogo_da_forca_grupo_1_23_1$main.coverage" NAME="main Coverage Results" MODIFIED="1678937213337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/jogo_da_forca_grupo_1_23_1$selecionar_palavra.coverage" NAME="selecionar_palavra Coverage Results" MODIFIED="1678937207395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jogo_da_forca_grupo_1_23_1$main.coverage" NAME="main Coverage Results" MODIFIED="1678975990463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jogo_da_forca_grupo_1_23_1$selecionar_palavra.coverage" NAME="selecionar_palavra Coverage Results" MODIFIED="1678975605385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
