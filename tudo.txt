@@ -1,0 +1,270 @@
+graviola
+groselia
+melancia
+maracuja
+mexerica
+carambola
+framboesa
+nectarina
+tangerina 
+uva 
+caju 
+figo  
+jaca  
+kiwi 
+lima 
+maca 
+pera 
+roma 
+amora 
+cacau 
+caqui 
+limao 
+lixia 
+mamao 
+melao 
+manga 
+ameixa
+banana
+cereja
+goiaba
+abacate
+acerola
+abacaxi
+damasco
+guarana
+laranja
+morango
+pessego
+pitanga
+cupuacu
+Angola 
+Argelia 
+Benin 
+Botsuana 
+Burkina Faso 
+Burundi 
+Cabo Verde 
+Camaroes 
+Chade 
+Comores 
+Congo-Brazzaville 
+Congo-Kinshasa 
+Costa do Marfim 
+Djibuti 
+Egito 
+Guine Equatorial 
+Eritreia 
+Eswatini 
+Etiopia 
+Gabao 
+Gambia 
+Gana 
+Guine 
+Guine-Bissau 
+Quenia 
+Lesoto 
+Liberia 
+Libia 
+Madagascar 
+Malaui 
+Mali 
+Mauritania 
+Mauricia 
+Marrocos 
+Mocambique 
+Namibia 
+Niger 
+Nigeria 
+Ruanda 
+Sao Tome e Principe 
+Senegal 
+Seicheles 
+Serra Leoa 
+Somalia 
+Africa do Sul 
+Sudao do Sul 
+Sudao 
+Tanzania 
+Togo 
+Tunisia 
+Uganda 
+Zambia 
+Zimbabue 
+Argentina 
+Bahamas 
+Barbados 
+Belize 
+Bolivia 
+Brasil 
+Canada 
+Chile 
+Colombia 
+Costa Rica 
+Cuba 
+Dominica 
+Equador 
+El Salvador 
+Estados Unidos 
+Granada 
+Guatemala 
+Guiana 
+Haiti 
+Honduras 
+Jamaica 
+Mexico 
+Nicaragua 
+Panama 
+Paraguai 
+Peru 
+Republica Dominicana 
+Santa Lucia 
+Sao Cristovao e Nevis 
+Sao Vicente e Granadinas 
+Suriname 
+Trinidad e Tobago 
+Uruguai 
+Venezuela
+Albania 
+Alemanha 
+Andorra 
+Armenia 
+austria 
+Azerbaijao 
+Belgica 
+Bielorrussia 
+Bosnia e Herzegovina 
+Bulgaria 
+Chipre 
+Croacia 
+Dinamarca 
+Eslovaquia 
+Eslovenia 
+Espanha 
+Estonia 
+Finlandia 
+Franca 
+Georgia 
+Grecia 
+Hungria 
+Irlanda 
+Islandia 
+Italia 
+Cazaquistao 
+Kosovo 
+Letonia 
+Liechtenstein 
+Lituania 
+Luxemburgo 
+Macedonia do Norte 
+Malta 
+Moldavia 
+Monaco 
+Montenegro 
+Noruega 
+Paises Baixos 
+Polonia 
+Portugal 
+Reino Unido 
+Republica Tcheca 
+Romenia 
+Russia 
+San Marino 
+Servia 
+Suecia 
+Suica 
+Turquia 
+Ucrania 
+Vaticano 
+Ajax 
+Liverpool 
+Napoli 
+Rangers 
+Porto 
+Atletico de Madrid 
+Bayer Leverkusen 
+Brugge 
+Bayern de Munique 
+Barcelona 
+Internazionale 
+Viktoria Plzen 
+Eintracht Frankfurt 
+Tottenham 
+Sporting 
+Olympique de Marselha 
+Milan 
+Chelsea 
+RB Salzburg 
+Dinamo Zagreb 
+Real Madrid 
+RB Leipzig 
+Shakhtar Donetsk 
+Celtic 
+Manchester City 
+Sevilla 
+Borussia Dortmund 
+Copenhagen 
+Paris Saint-Germain 
+Juventus 
+Benfica 
+Maccabi Haifa
+America MG 
+Athletico PR 
+Atlético MG 
+Bahia 
+Botafogo 
+Bragantino 
+Corinthians 
+Coritiba 
+Cruzeiro 
+Cuiaba 
+Flamengo 
+Fluminense 
+Fortaleza 
+Goias 
+Gremio 
+Internacional 
+Palmeiras 
+Santos 
+Sao Paulo 
+Vasco 
+ABC 
+Atletico GO 
+Avai 
+Botafogo SP 
+CRB 
+Ceara 
+Chapecoense 
+Criciuma 
+Guarani 
+Ituano 
+Juventude 
+Londrina 
+Mirassol 
+Novorizontino 
+Ponte Preta 
+Sampaio Corrêa 
+Sport 
+Tombense 
+Vila Nova 
+Vitoria
+Altos 
+Amazonas 
+America RN 
+Aparecidense 
+Botafogo PB 
+Brusque 
+CSA 
+Confiança 
+Figueirense 
+Floresta 
+Manaus 
+Náutico 
+Operário PR 
+Paysandu 
+Pouso Alegre 
+Remo 
+São Bernardo 
+São José RS 
+Volta Redonda 
+Ypiranga RS 
