@@ -2,7 +2,15 @@ import random
 
 def carrega_palavra_secreta():
     arquivo_das_palavras = ""
+    lista_categoria = ["futebol","frutas","paises"]
+    lista_dificuldade = ["serie a","serie b","serie c","champions","facil","medio","dificil","africa","americas","europa"]
+
+
     escolha_a_categoria = input("Escolha a categoria[futebol/frutas/paises]:").strip().lower()
+    while escolha_a_categoria not in lista_categoria:
+        print("\033[31mError.Digite exatamente apenas as categorias abaixo.\033[m")
+        escolha_a_categoria = input("Escolha a categoria[futebol/frutas/paises]:").strip().lower()
+
     if escolha_a_categoria == "futebol":
         escolha_de_dificuldade = "Escolha um campeonato [serie a/serie b/serie c/champions]:"
     elif escolha_a_categoria == "frutas":
@@ -11,7 +19,10 @@ def carrega_palavra_secreta():
         escolha_de_dificuldade = "Escolha um continente [africa/americas/europa]:"
 
     dificuldade_das_palavras = input(escolha_de_dificuldade).strip().lower()
-    
+    while dificuldade_das_palavras not in lista_dificuldade:
+        print("\033[31mError.Digite exatamente apenas as categorias abaixo.\033[m")
+        dificuldade_das_palavras = input(escolha_de_dificuldade).strip().lower()
+
     if dificuldade_das_palavras == "facil":
         arquivo_das_palavras = "./palavras/frutas-facil.txt"
     elif dificuldade_das_palavras == "medio":

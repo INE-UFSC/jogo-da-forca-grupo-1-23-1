@@ -19,7 +19,7 @@ class JogoDeForca:
         
         if letra not in self.palavra:
             self.chances -= 1
-            print(f"ERROUU! A letra '{letra}' não está na palavra.")
+            print(f"\033[31mERROUU!\033[m A letra '{letra}' não está na palavra.")
             print(f"Você tem {self.chances} chances restantes.")
             return
         
@@ -91,6 +91,15 @@ class JogoDeForca:
             print()
             print(f"Palavra: {self.get_palavra_mascarada()}")
             letra = input("Digite uma letra: ")
+
+            while len(letra) == 0:
+                print("\033[31mError.\033[mDigite apenas letras")
+                letra = input("Digite uma letra: ")
+
+            while not (65 <= ord(letra) <= 90 or 97 <= ord(letra) <= 122):
+                print("\033[31mError.\033[mDigite apenas letras")
+                letra = input("Digite uma letra: ")
+
             self.adivinhar(letra)
             self.desenha_forca()
             self.print_linha()
@@ -108,7 +117,11 @@ class JogoDeForca:
         return "".join([letra if letra in self.tentativas else "-" for letra in self.palavra])
     
     def jogar_novamente(self):
-        resposta = input("Deseja jogar novamente? (s/n) ")
+        resposta = input("Deseja jogar novamente? (s/n) ").split()[0]
+
+        while not resposta in "SsNn":
+            print("\033[31mError.\033[m")
+            resposta = input("Deseja jogar novamente? (s/n) ").split()[0]
         if resposta.lower() == "s":
             self.__init__()
             self.jogar()
